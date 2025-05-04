@@ -2,7 +2,7 @@
     <div>
       <Header />
       
-      <main class="min-h-screen  py-1">
+      <main class="min-h-screen  py-0">
         <slot />
       </main>
       
