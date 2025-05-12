@@ -69,17 +69,18 @@
           <img src="../../assets/project3.jpg" class="rounded" />
           <img src="../../assets/project4.jpg" class="rounded" />
         </div>
-        <div class="flex flex-col justify-between">
-          <p class="text-sm text-gray-700 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </p>
-          <p class="text-sm text-gray-700 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-          <button class="bg-black text-white text-xs px-4 py-2 rounded w-max">
-            READ MORE
-          </button>
-        </div>
+    <div class="flex flex-col justify-between">
+  <p class="text-sm text-gray-700 mb-4">
+    At Royal Diadem Group, we specialize in delivering high-quality aluminium and glass solutions that blend durability with elegance. From residential to commercial projects, our craftsmanship stands out in both design and performance.
+  </p>
+  <p class="text-sm text-gray-700 mb-4">
+    With a strong commitment to quality standards and exceptional customer service, we have built a solid reputation backed by numerous satisfied clients and glowing testimonials.
+  </p>
+  <button class="bg-black text-white text-xs px-4 py-2 rounded w-max">
+    READ MORE
+  </button>
+</div>
+
       </section>
   
       <!-- Leadership -->

@@ -11,8 +11,8 @@
       <nav class="hidden md:flex items-center gap-4">
         <router-link to="/" class="px-2 py-1 hover:underline">Home</router-link>
         <router-link to="/about" class="px-2 py-1 hover:underline">About</router-link>
-        <router-link to="/services" class="px-2 py-1 hover:underline">Services</router-link>
-        <router-link to="/blog" class="px-2 py-1 hover:underline">Blog</router-link>
+        <!-- <router-link to="/services" class="px-2 py-1 hover:underline">Services</router-link>
+        <router-link to="/blog" class="px-2 py-1 hover:underline">Blog</router-link> -->
         <router-link to="/contact" class="px-2 py-1 hover:underline">Contact</router-link>
       </nav>
 
